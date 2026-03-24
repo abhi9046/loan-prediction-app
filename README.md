@@ -1,2 +1,1 @@
-# xyz
-(xyz)^2
+loan-prediction-app
