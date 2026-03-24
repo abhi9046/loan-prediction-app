@@ -34,8 +34,6 @@ The application is deployed using **Streamlit**, allowing users to input data an
 ---
 
 ## 📂 Project Structure
-roject Structure
-
 
 ML project/
 │
